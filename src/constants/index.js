@@ -74,18 +74,18 @@ const logoIconsList = [
 const abilities = [
     {
         imgPath: "/images/seo.png",
-        title: "Frontend Development",
-        desc: "Crafting responsive, accessible, and visually engaging interfaces using React, Tailwind, GSAP, and Three.js to bring ideas to life.",
+        title: "Open Source Contri's",
+        desc: "active student contributor exploring community projects and standards—shipping small fixes and docs, experimenting with AOSSIE/Resonate and scoping Apache repos",
     },
     {
         imgPath: "/images/chat.png",
-        title: "Backend & DevOps",
-        desc: "Building scalable APIs and systems with Node.js, Express, Firebase, and CI/CD pipelines, ensuring smooth deployments on Vercel/Render.",
+        title: "FullStack Devlopment",
+        desc: "building seamless apps from front-end to back-end — react, node, databases, and cloud — with a focus on speed, scalability, and user-first design.",
     },
     {
         imgPath: "/images/time.png",
         title: "AI & ML",
-        desc: "Designing intelligent solutions with PyTorch, OpenCV, and real-time data pipelines, focusing on edge inference and applied ML projects.",
+        desc: "While wokring on an INHOUSE PROJECT Designing intelligent solutions with PyTorch, OpenCV, and real-time data pipelines, focusing on edge inference and applied ML projects.",
     },
 ];
 
@@ -147,39 +147,44 @@ const techStackIcons = [
 
 const expCards = [
     {
-        review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-        imgPath: "/images/exp1.png",
+        review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+        imgPath: "/images/HAck.png",
         logoPath: "/images/logo1.png",
-        title: "Frontend Developer",
-        date: "January 2023 - Present",
+        title: "Technical Team Member",
+        date: " August 2025 - Present",
         responsibilities: [
-            "Developed and maintained user-facing features for the Hostinger website.",
-            "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-            "Optimized web applications for maximum speed and scalability.",
+            "Part of technical Domain in Team SRM HACKATHON",
+            "Collaborated Closely with development of the webapp.",
+            "Optimized web applications for maximum speed and scalability & publicity.",
         ],
     },
     {
-        review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-        imgPath: "/images/exp2.png",
+        review: "Aryan’s open-source journey reflects his curiosity and consistency. From contributing to foundations to publishing his own projects, he shows a strong drive to collaborate and give back to the developer ecosystem.",
+        imgPath: "/images/Aop.png",
         logoPath: "/images/logo2.png",
-        title: "Full Stack Developer",
-        date: "June 2020 - December 2023",
+        title: "Open Source Contributor",
+        date: "December 2024 - Present",
         responsibilities: [
-            "Led the development of Docker's web applications, focusing on scalability.",
-            "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-            "Contributed to open-source projects that were used with the Docker ecosystem.",
+            "Explored and contributed to Apache Arrow and AOSSIE Resonate.",
+            "Shared personal projects like SkyBox, Flare-Alert, and PrintSasta as open-source.",
+            "Participating in Hacktoberfest and began preparing for GSoC 2026.",
+            "Improved repo quality with structured READMEs, clear commits, and deploy-ready code.",
         ],
     },
     {
-        review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-        imgPath: "/images/exp3.png",
+        review: "Aryan’s energy and creativity stood out at every hackathon. He consistently turned raw ideas into functional MVPs under pressure, delivering practical solutions with strong storytelling. His ability to connect technology with real-world use cases left a lasting impact on judges and teammates alike.",
+        imgPath: "/images/gggh.png",
         logoPath: "/images/logo3.png",
-        title: "React Native Developer",
-        date: "March 2019 - May 2020",
+        title: "Hackathons",
+        date: "August 2024 - May 2025",
         responsibilities: [
-            "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-            "Improved app performance and user experience through code optimization and testing.",
-            "Coordinated with the product team to implement features based on feedback.",
+            "Participated in multiple hackathons including the Google Solutions Challenge and SRM-level events.",
+
+            "Became Finalist at SRM-ACM Gitzen, sharpening pitching & presentation skills.",
+
+            "Kickstarted my journey with ULTRON 8.0, later competing in IDEATHON 5.0 and CAD 3.0 (OncoLens track).",
+
+            "Explored innovation-driven problem solving and teamwork under time constraints.",
         ],
     },
 ];
