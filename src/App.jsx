@@ -6,7 +6,7 @@ import FeatureCards from "./sections/FeatureCards.jsx";
 import ExperienceSection from "./sections/ExpirienceSection.jsx";
 import TechStack from "./sections/TechStack.jsx";
 import Testimonials from "./sections/Testimonials.jsx";
-import Contact from "./sections/contact.jsx";
+import Contact from "./sections/Contact.jsx";
 import Footer from "./sections/Footer.jsx";
 
 
