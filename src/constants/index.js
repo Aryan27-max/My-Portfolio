@@ -29,9 +29,9 @@ const words = [
 ];
 
 const counterItems = [
-    { value: 20, suffix: "+", label: "Github commits" },
-    { value: 5, suffix: "+", label: "Hackathons" },
-    { value: 8, suffix: "+", label: "Completed Projects" },
+    { value: 400, suffix: "+", label: "Github commits" },
+    { value: 15, suffix: "+", label: "Hackathons" },
+    { value: 20, suffix: "+", label: "Completed Projects" },
     { value: 2, suffix: "+", label: "Years of Experience" },
 ];
 
@@ -147,7 +147,7 @@ const techStackIcons = [
 
 const expCards = [
     {
-        review: "Charvee brought creativity and technical expertise to the team, significantly improving our frontend performance. Her work has been invaluable in delivering faster experiences.",
+        review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
         imgPath: "/images/HAck.png",
         logoPath: "/images/logo1.png",
         title: "Technical Team Member",
@@ -159,7 +159,7 @@ const expCards = [
         ],
     },
     {
-        review: "Charvee’s open-source journey reflects her curiosity and consistency. From contributing to foundations to publishing her own projects, she shows a strong drive to collaborate and give back to the developer ecosystem.",
+        review: "Aryan’s open-source journey reflects her curiosity and consistency. From contributing to foundations to publishing his own projects, he shows a strong drive to collaborate and give back to the developer ecosystem.",
         imgPath: "/images/Aop.png",
         logoPath: "/images/logo2.png",
         title: "Open Source Contributor",
@@ -172,7 +172,7 @@ const expCards = [
         ],
     },
     {
-        review: "Charvee’s energy and creativity stood out at every hackathon. She consistently turned raw ideas into functional MVPs under pressure, delivering practical solutions with strong storytelling. Her ability to connect technology with real-world use cases left a lasting impact on judges and teammates alike.",
+        review: "Aryan’s energy and creativity stood out at every hackathon. He consistently turned raw ideas into functional MVPs under pressure, delivering practical solutions with strong storytelling. His ability to connect technology with real-world use cases left a lasting impact on judges and teammates alike.",
         imgPath: "/images/gggh.png",
         logoPath: "/images/logo3.png",
         title: "Hackathons",
@@ -208,17 +208,17 @@ const expLogos = [
 
 const testimonials = [
     {
-        name: "Khushi gour",
-        mentions: "L.in -@Khushi Gour",
+        name: "Purva Jain",
+        mentions: "L.in - @Purva Jain",
         review:
-            "It's been great woking with Charvee Across projects.  She was able to take our complex project requirements and turn them into a seamless, functional website. Her problem-solving abilities are outstanding.",
-        imgPath: "/images/client4.png",
+            "It's been great woking with Aryan Across projects.He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
+        imgPath: "/images/Purva.png",
     },
     {
-        name: "Nitik Roshan",
-        mentions: "L.in -@Nitik roshan",
+        name: "Pranay Gour",
+        mentions: "L.in - @Pranay Gour",
         review:
-            "Charvee's been really great to work with, very skilled in coding with great leadership qualities, always eager to solve problems and share knowledge in tech.",
+            "Aryan's been really great to work with, very skilled in coding with great leadership qualities, always eager to solve problems and share knowledge in tech.",
         imgPath: "/images/Pranay.png",
 
     },
@@ -226,47 +226,47 @@ const testimonials = [
         name: "Dr.K Arthi",
         mentions: "prof.SRM IST",
         review:
-            "As a mentor, I’ve had the opportunity to guide Charvee on an Applied Machine Learning in-house research project at SRM IST. Her dedication, problem-solving ability, and technical depth have stood out throughout the project. Charvee combines creativity with discipline, consistently delivering results that align with both academic rigor and practical application. ",
+            "As a mentor, I’ve had the opportunity to guide Aryn on an Applied Machine Learning in-house research project at SRM IST. His dedication, problem-solving ability, and technical depth have stood out throughout the project. Aryan combines creativity with discipline, consistently delivering results that align with both academic rigor and practical application. ",
         imgPath: "/images/Dr.Arthi.png",
     },
     {
-        name: "Karan Singh",
-        mentions: "L.in - @kran singh",
+        name: "Nehit Pahuja",
+        mentions: "L.in - @Nehit Pahuja",
         review:
-            "Charvee is a highly skilled and dependable teammate I’ve worked with in hackathons. Her problem-solving ability, technical expertise, and collaborative nature make her a strong asset to any team. She consistently brings value and motivates everyone to perform at their best. Wishing her the best in his future endeavours",
-        imgPath: "/images/client4.png",
+            "Aryan is a highly skilled and dependable teammate I’ve worked with in hackathons. His problem-solving ability, technical expertise, and collaborative nature make him a strong asset to any team. He consistently brings value and motivates everyone to perform at their best. Wishing her the best in his future endeavours",
+        imgPath: "/images/nehit.png",
 
     },
     {
-        name: "Jimil Arora",
-        mentions: "Jimil arora",
+        name: "Hiya Lodha",
+        mentions: "L.in - @Hiya Lodha",
         review:
-            "Charvee’s expertise in web development is truly impressive. She delivered a robust and scalable solution for our Frontend, and our it was an pleasure working with her for the tenure of SIH!",
-        imgPath: "/images/client4.png",
+            "Aryan’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our Frontend, and our it was an pleasure working with him for the tenure of SIH!",
+        imgPath: "/images/Hiya.png",
     },
     {
-        name: "Anu roy",
-        mentions: "anu roy",
+        name: "Ishita Chaurasia",
+        mentions: "L.in - @Ishita Chaura",
         review:
-            "Charvee was a pleasure to work with. She understood our requirements perfectly and delivered a website that exceeded our expectations. Her skills in both frontend and backend dev are top-notch.",
-        imgPath: "/images/client4.png",
+            "Aryan was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
+        imgPath: "/images/Ishita.png",
     },
 ];
 
 const socialImgs = [
     {
         name: "github",
-        url: "https://github.com/charveemasand108",
+        url: "https://github.com/Aryan27-max",
         imgPath: "/images/github_11zon.png",
     },
     {
         name: "x",
-        url: "",
+        url: "https://x.com/aryan2005_raj",
         imgPath: "/images/x.png",
     },
     {
         name: "linkedin",
-        url: "https://www.linkedin.com/in/charvee108/",
+        url: "https://www.linkedin.com/in/aryan-gupta-1058aa209/",
         imgPath: "/images/linkedin.png",
     },
 ];
