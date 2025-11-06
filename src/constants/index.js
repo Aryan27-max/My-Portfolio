@@ -218,7 +218,7 @@ const testimonials = [
         name: "Pranay Gour",
         mentions: "L.in - @Pranay Gour",
         review:
-            "Aryan's/////////////been really great to work with, very skilled in coding with great leadership qualities, always eager to solve problems and share knowledge in tech.",
+            "Aryan's been really great to work with, very skilled in coding with great leadership qualities, always eager to solve problems and share knowledge in tech.",
         imgPath: "/images/Pranay.png",
 
     },
