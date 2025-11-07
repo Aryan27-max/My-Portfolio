@@ -233,7 +233,7 @@ const testimonials = [
         name: "Nehit Pahuja",
         mentions: "L.in - @Nehit Pahuja",
         review:
-            "Aryan is a///////////////////////// highly skilled and dependable teammate I’ve worked with in hackathons. His problem-solving ability, technical expertise, and collaborative nature make him a strong asset to any team. He consistently brings value and motivates everyone to perform at their best. Wishing her the best in his future endeavours",
+            "Aryan is a highly skilled and dependable teammate I’ve worked with in hackathons. His problem-solving ability, technical expertise, and collaborative nature make him a strong asset to any team. He consistently brings value and motivates everyone to perform at their best. Wishing her the best in his future endeavours",
         imgPath: "/images/nehit.png",
 
     },
