@@ -54,23 +54,3 @@ const NavBar = () => {
 
 export default NavBar;
 
-
-
-
-// test commits
-// test commits test commits test commits test commits test commits test commits
-// test commits
-// test commits
-// test commits
-// test commits test commits
-// test commits
-// test commits
-// test commits
-// test commits
-// test commits
-// test commits
-// test commits
-// test commits
-//
-// test commits
-// test commits
