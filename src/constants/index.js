@@ -153,7 +153,7 @@ const expCards = [
         title: "Technical Team Member",
         date: " August 2025 - Present",
         responsibilities: [
-            "Part of technical Domain in Team SRM HACKATHON",
+            "Part of technical Domain in Microsoft SA,Cherry+ Network,Codenex & more ",
             "Collaborated Closely with development of the webapp.",
             "Optimized web applications for maximum speed and scalability & publicity.",
         ],
@@ -180,9 +180,9 @@ const expCards = [
         responsibilities: [
             "Lead as Team Lead numerous members under TEAM AURORA",
 
-            "Participated in multiple hackathons including the Google Solutions Challenge and SRM-level events.",
+            "Logged in my 1st win at Tech Mesh, by FUTURIX(SRM)",
 
-            "Became Finalist at SRM-ACM Gitzen, sharpening pitching & presentation skills.",
+            "Participated in multiple hackathons including the Google Solutions Challenge and SRM-level events.",
 
             "Kickstarted my journey with ULTRON 8.0, later competing in IDEATHON 5.0 and CAD 3.0.",
 
