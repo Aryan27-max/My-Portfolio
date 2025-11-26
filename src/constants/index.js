@@ -148,7 +148,7 @@ const techStackIcons = [
 const expCards = [
     {
         review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-        imgPath: "/images/HAck.png",
+        imgPath: "/images/22.png",
         logoPath: "/images/logo1.png",
         title: "Technical Team Member",
         date: " August 2025 - Present",
