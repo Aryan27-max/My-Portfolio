@@ -166,7 +166,7 @@ const expCards = [
         date: "December 2024 - Present",
         responsibilities: [
             "Explored and contributed to Apache Arrow and AOSSIE Resonate.",
-            "Shared personal projects like SkyBox, Flare-Alert, and PrintSasta as open-source.",
+            "Shared personal projects like SkyBox, Flare-Alert and more as open-source.",
             "Participating in Hacktoberfest and began preparing for GSoC 2026.",
             "Improved repo quality with structured READMEs, clear commits, and deploy-ready code.",
         ],
