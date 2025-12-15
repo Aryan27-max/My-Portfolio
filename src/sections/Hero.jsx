@@ -59,7 +59,7 @@ const Hero = () => {
                         <h1>
                             Click here 👉{" "}
                             <a
-                                href="public/images/Aryan Gupta.pdf"
+                                href="https://drive.google.com/file/d/1_SXP7NkI1jdAVehb_rHlJdycBAFVjHaj/view?usp=sharing"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="underline text-blue-500 hover:text-blue-700"
