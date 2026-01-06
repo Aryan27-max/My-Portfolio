@@ -257,17 +257,17 @@ const socialImgs = [
     {
         name: "github",
         url: "https://github.com/Aryan27-max",
-        imgPath: "/images/github.svg",
+        imgPath: "/images/github1.svg",
     },
     {
         name: "x",
         url: "https://x.com/aryan2005_raj",
-        imgPath: "/images/",
+        imgPath: "/images/twitter.svg",
     },
     {
         name: "linkedin",
         url: "https://www.linkedin.com/in/aryan-gupta-1058aa209/",
-        imgPath: "/images/linkedin.png",
+        imgPath: "/images/LinkedIn.svg",
     },
 ];
 
