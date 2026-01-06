@@ -150,12 +150,12 @@ const expCards = [
         review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
         imgPath: "/images/spazor.webp",
         logoPath: "/images/logo1.png",
-        title: "Technical Team Member",
-        date: " August 2025 - Present",
+        title: "Full-Stack Dev (Spazor Labs, Chennai)",
+        date: " Dec 2025 - Present",
         responsibilities: [
-            "Part of technical Domain in Microsoft SA,Cherry+ Network,Codenex & more ",
-            "Collaborated Closely with development of the webapp.",
-            "Optimized web applications for maximum speed and scalability & publicity.",
+            "I build and ship real products, leading full-stack development for Resumind, a cloud-based AI resume parsing and progress recommendation platform.",
+            "I’ve worked on Amos 2.0, a client-facing ad sales and engagement platform, learning how production systems scale and teams collaborate under real constraints.",
+            "I thrive in fast-moving environments, enjoy solving real problems, and love turning complex ideas into clean, usable software.",
         ],
     },
     {
@@ -163,7 +163,7 @@ const expCards = [
         imgPath: "/images/MSA.webp",
         logoPath: "/images/logo2.png",
         title: "Technical Team Member",
-        date: " August 2025 - Present",
+        date: " Oct 2025 - Present",
         responsibilities: [
             "Part of technical Domain in Microsoft SA,Cherry+ Network,Codenex & more ",
             "Collaborated Closely with development of the webapp.",
@@ -175,7 +175,7 @@ const expCards = [
         imgPath: "/images/Aossie.webp",
         logoPath: "/images/logo3.png",
         title: "Open Source Contributor",
-        date: "December 2024 - Present",
+        date: "Aug 2025 - Present",
         responsibilities: [
             "Explored and contributed to Apache Arrow and AOSSIE Resonate.",
             "Shared personal projects like SkyBox, Flare-Alert and more as open-source.",
