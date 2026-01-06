@@ -49,7 +49,7 @@ const AppShowcase = () => {
                 <div className="showcaselayout">
                     <div ref={rydeRef} className="first-project-wrapper">
                         <div className="image-wrapper">
-                            <img src="/images/Flare.png" alt="Ryde App Interface" />
+                            <img src="/images/Flare.webp" alt="Ryde App Interface" />
                         </div>
                         <div className="text-content">
                             <h2>
@@ -66,7 +66,7 @@ const AppShowcase = () => {
                         <div className="project" ref={libraryRef}>
                             <div className="image-wrapper bg-[#FFEFDB]">
                                 <img
-                                    src="/images/SKYBOX.png"
+                                    src="/images/SKYBOX.webp"
                                     alt="Library Management Platform"
                                 />
                             </div>

@@ -148,7 +148,7 @@ const techStackIcons = [
 const expCards = [
     {
         review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-        imgPath: "/images/22.png",
+        imgPath: "/images/spazor.webp",
         logoPath: "/images/logo1.png",
         title: "Technical Team Member",
         date: " August 2025 - Present",
@@ -159,9 +159,21 @@ const expCards = [
         ],
     },
     {
-        review: "Aryan’s open-source journey reflects her curiosity and consistency. From contributing to foundations to publishing his own projects, he shows a strong drive to collaborate and give back to the developer ecosystem.",
-        imgPath: "/images/Aop.png",
+        review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+        imgPath: "/images/MSA.webp",
         logoPath: "/images/logo2.png",
+        title: "Technical Team Member",
+        date: " August 2025 - Present",
+        responsibilities: [
+            "Part of technical Domain in Microsoft SA,Cherry+ Network,Codenex & more ",
+            "Collaborated Closely with development of the webapp.",
+            "Optimized web applications for maximum speed and scalability & publicity.",
+        ],
+    },
+    {
+        review: "Aryan’s open-source journey reflects her curiosity and consistency. From contributing to foundations to publishing his own projects, he shows a strong drive to collaborate and give back to the developer ecosystem.",
+        imgPath: "/images/Aossie.webp",
+        logoPath: "/images/logo3.png",
         title: "Open Source Contributor",
         date: "December 2024 - Present",
         responsibilities: [
@@ -169,24 +181,6 @@ const expCards = [
             "Shared personal projects like SkyBox, Flare-Alert and more as open-source.",
             "Participating in Hacktoberfest and began preparing for GSoC 2026.",
             "Improved repo quality with structured READMEs, clear commits, and deploy-ready code.",
-        ],
-    },
-    {
-        review: "Aryan’s energy and creativity stood out at every hackathon. He consistently turned raw ideas into functional MVPs under pressure, delivering practical solutions with strong storytelling. His ability to connect technology with real-world use cases left a lasting impact on judges and teammates alike.",
-        imgPath: "/images/gggh.png",
-        logoPath: "/images/logo3.png",
-        title: "Hackathons",
-        date: "August 2024 - May 2025",
-        responsibilities: [
-            "Lead as Team Lead numerous members under TEAM AURORA",
-
-            "Logged in my 1st win at Tech Mesh, by FUTURIX(SRM)",
-
-            "Participated in multiple hackathons including the Google Solutions Challenge and SRM-level events.",
-
-            "Kickstarted my journey with ULTRON 8.0, later competing in IDEATHON 5.0 and CAD 3.0.",
-
-
         ],
     },
 ];
@@ -212,14 +206,14 @@ const testimonials = [
         mentions: "L.in - @Purva Jain",
         review:
             "It's been great woking with Aryan Across projects.He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
-        imgPath: "/images/Purva.png",
+        imgPath: "/images/Purva.webp",
     },
     {
         name: "Pranay Gour",
         mentions: "L.in - @Pranay Gour",
         review:
             "Aryan's been really great to work with, very skilled in coding with great leadership qualities, always eager to solve problems and share knowledge in tech.",
-        imgPath: "/images/Pranay.png",
+        imgPath: "/images/Pranay.webp",
 
     },
     {
@@ -227,14 +221,14 @@ const testimonials = [
         mentions: "prof.SRM IST",
         review:
             "As a mentor, I’ve had the opportunity to guide Aryn on an Applied Machine Learning in-house research project at SRM IST. His dedication, problem-solving ability, and technical depth have stood out throughout the project. Aryan combines creativity with discipline, consistently delivering results that align with both academic rigor and practical application. ",
-        imgPath: "/images/Dr.Arthi.png",
+        imgPath: "/images/Dr.Arthi.webp",
     },
     {
         name: "Nehit Pahuja",
         mentions: "L.in - @Nehit Pahuja",
         review:
             "Aryan is a highly skilled and dependable teammate I’ve worked with in hackathons. His problem-solving ability, technical expertise, and collaborative nature make him a strong asset to any team. He consistently brings value and motivates everyone to perform at their best. Wishing her the best in his future endeavours",
-        imgPath: "/images/nehit.png",
+        imgPath: "/images/nehit.webp",
 
     },
     {
@@ -242,14 +236,14 @@ const testimonials = [
         mentions: "L.in - @Hiya Lodha",
         review:
             "Aryan’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our Frontend, and our it was an pleasure working with him for the tenure of SIH!",
-        imgPath: "/images/Hiya.png",
+        imgPath: "/images/Hiya.webp",
     },
     {
         name: "Ishita Chaurasia",
         mentions: "L.in - @Ishita Chaura",
         review:
             "Aryan was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-        imgPath: "/images/Ishita.png",
+        imgPath: "/images/Ishita.webp",
     },
 ];
 
