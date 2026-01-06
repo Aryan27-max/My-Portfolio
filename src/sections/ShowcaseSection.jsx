@@ -66,18 +66,18 @@ const AppShowcase = () => {
                         <div className="project" ref={libraryRef}>
                             <div className="image-wrapper bg-[#FFEFDB]">
                                 <img
-                                    src="/images/SKYBOX.webp"
+                                    src="/images/Resumind.png"
                                     alt="Library Management Platform"
                                 />
                             </div>
-                            <h2>SKYBOX - future of EV charging</h2>
+                            <h2>RESUMIND - Your resume deserves an AI Review</h2>
                         </div>
 
                         <div className="project" ref={ycDirectoryRef}>
                             <div className="image-wrapper bg-[#FFE7EB]">
-                                <img src="/images/bgt.png" alt="YC Directory App" />
+                                <img src="/images/SKYBOX.webp" alt="YC Directory App" />
                             </div>
-                            <h2>Budger Tasker - start your financial journey</h2>
+                            <h2>SKYBOX - future of EV charging</h2>
                         </div>
                     </div>
                 </div>
