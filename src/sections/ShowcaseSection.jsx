@@ -49,7 +49,9 @@ const AppShowcase = () => {
                 <div className="showcaselayout">
                     <div ref={rydeRef} className="first-project-wrapper">
                         <div className="image-wrapper">
-                            <img src="/images/Flare.webp" alt="Ryde App Interface" />
+                            <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">
+                                <img src="/images/Flare.webp" alt="Ryde App Interface" />
+                            </a>
                         </div>
                         <div className="text-content">
                             <h2>
