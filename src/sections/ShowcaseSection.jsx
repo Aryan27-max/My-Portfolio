@@ -49,7 +49,7 @@ const AppShowcase = () => {
                 <div className="showcaselayout">
                     <div ref={rydeRef} className="first-project-wrapper">
                         <div className="image-wrapper">
-                            <a href="https://chatgpt.com/" target="_blank" rel="noopener noreferrer">
+                            <a href="https://github.com/Aryan27-max/FLARE-ALERT" target="_blank" rel="noopener noreferrer">
                                 <img src="/images/Flare.webp" alt="Ryde App Interface" />
                             </a>
                         </div>
@@ -69,7 +69,7 @@ const AppShowcase = () => {
                             <div className="image-wrapper bg-[#FFEFDB]">
                                 <img
                                     src="/images/Resumind.png"
-                                    alt="Library Management Platform"
+                                    alt="AI Resume Analyser"
                                 />
                             </div>
                             <h2>RESUMIND - Your resume deserves an AI Review</h2>
