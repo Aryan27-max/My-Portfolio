@@ -35,6 +35,8 @@ const counterItems = [
     { value: 2, suffix: "+", label: "Years of Experience" },
 ];
 
+// kwbc
+
 const logoIconsList = [
     {
         imgPath: "/images/logos/company-logo-1.png",
