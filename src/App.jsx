@@ -9,9 +9,6 @@ import Testimonials from "./sections/Testimonials.jsx";
 import Contact from "./sections/Contact.jsx";
 import Footer from "./sections/Footer.jsx";
 
-
-//iwuegf7ewgfefg
-
 const App = () => {
     return (
         <>
