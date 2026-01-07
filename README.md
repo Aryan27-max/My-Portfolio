@@ -23,4 +23,10 @@ This portfolio showcases my skills, projects, and design approach with an emphas
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
 ## Made with ❤️ **by Aryan** by [Aryan27-max](https://github.com/Aryan27-max)
