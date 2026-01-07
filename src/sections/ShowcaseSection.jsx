@@ -67,17 +67,24 @@ const AppShowcase = () => {
                     <div className="project-list-wrapper overflow-hidden">
                         <div className="project" ref={libraryRef}>
                             <div className="image-wrapper bg-[#FFEFDB]">
-                                <img
-                                    src="/images/Resumind.png"
-                                    alt="AI Resume Analyser"
-                                />
+                                <a href="https://github.com/Aryan27-max/Resumind" target="_blank" rel="noopener noreferrer">
+                                    <img
+                                        src="/images/Resumind.png"
+                                        alt="AI Resume Analyser"
+                                    />
+                                </a>
                             </div>
                             <h2>RESUMIND - Your resume deserves an AI Review</h2>
                         </div>
 
                         <div className="project" ref={ycDirectoryRef}>
                             <div className="image-wrapper bg-[#FFE7EB]">
-                                <img src="/images/SKYBOX.webp" alt="YC Directory App" />
+                                <a href="https://github.com/Aryan27-max/SKYBOX" target="_blank" rel="noopener noreferrer">
+                                    <img
+                                        src="/images/SKYBOX.webp"
+                                        alt="YC Directory App"
+                                    />
+                                </a>
                             </div>
                             <h2>SKYBOX - future of EV charging</h2>
                         </div>
