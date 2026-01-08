@@ -147,31 +147,33 @@ const techStackIcons = [
 
 const expCards = [
     {
-        review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-        imgPath: "/images/spazor.webp",
-        logoPath: "/images/logo1.png",
-        title: "Full-Stack Dev (Spazor Labs, Chennai)",
-        date: " Dec 2025 - Present",
-        responsibilities: [
-            "I build and ship real products, leading full-stack development for Resumind, a cloud-based AI resume parsing and progress recommendation platform.",
-            "I’ve worked on Amos 2.0, a client-facing ad sales and engagement platform, learning how production systems scale and teams collaborate under real constraints.",
-            "I thrive in fast-moving environments, enjoy solving real problems, and love turning complex ideas into clean, usable software.",
-        ],
-    },
-    {
         review: "Aryan brings strong technical depth with a rare focus on fundamentals. His approach to AI research balances theory, experimentation, and real-world deployment, making his contributions both rigorous and practical.",
         imgPath: "/images/KL.webp",
-        logoPath: "/images/logo2.png",
+        logoPath: "/images/logo1.png",
         title: "AI/ML Research",
         date: " March 2025 - Present",
         responsibilities: [
             "Strong Fundamentals : \n" +
+                "Built core ML foundations through Stanford CS229 (Andrew Ng) and 3Blue1Brown, prioritizing mathematical understanding over rapid tooling.",
             " Research & Analysis :\n" +
             " Performed comparative studies across thermal, camera-only, and LiDAR-based ADAS systems, referencing Tesla and prior literature. ",
             "Edge & Pipeline Optimization :\n" +
             " Optimized training and inference pipelines with emphasis on efficiency, compression, and edge deployment readiness.",
             "Thermal-AI & ADAS :\n" +
             " Led YOLOv8 training and fine-tuning on the ITDAV Indian thermal dataset using NVIDIA A100 GPUs, focusing on real-world robustness.",
+        ],
+    },
+
+    {
+        review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+        imgPath: "/images/spazor.webp",
+        logoPath: "/images/logo2.png",
+        title: "Full-Stack Dev (Spazor Labs, Chennai)",
+        date: " Dec 2025 - Present",
+        responsibilities: [
+            "I build and ship real products, leading full-stack development for Resumind, a cloud-based AI resume parsing and progress recommendation platform.",
+            "I’ve worked on Amos 2.0, a client-facing ad sales and engagement platform, learning how production systems scale and teams collaborate under real constraints.",
+            "I thrive in fast-moving environments, enjoy solving real problems, and love turning complex ideas into clean, usable software.",
         ],
     },
     {
