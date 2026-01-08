@@ -159,15 +159,19 @@ const expCards = [
         ],
     },
     {
-        review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+        review: "Aryan brings strong technical depth with a rare focus on fundamentals. His approach to AI research balances theory, experimentation, and real-world deployment, making his contributions both rigorous and practical.",
         imgPath: "/images/KL.webp",
         logoPath: "/images/logo2.png",
         title: "AI/ML Research",
         date: " March 2025 - Present",
         responsibilities: [
-            "Part of technical Domain in Microsoft SA,Cherry+ Network,Codenex & more ",
-            "Collaborated Closely with development of the webapp.",
-            "Optimized web applications for maximum speed and scalability & publicity.",
+            "Strong Fundamentals : \n" +
+            " Research & Analysis :\n" +
+            " Performed comparative studies across thermal, camera-only, and LiDAR-based ADAS systems, referencing Tesla and prior literature. ",
+            "Edge & Pipeline Optimization :\n" +
+            " Optimized training and inference pipelines with emphasis on efficiency, compression, and edge deployment readiness.",
+            "Thermal-AI & ADAS :\n" +
+            " Led YOLOv8 training and fine-tuning on the ITDAV Indian thermal dataset using NVIDIA A100 GPUs, focusing on real-world robustness.",
         ],
     },
     {
