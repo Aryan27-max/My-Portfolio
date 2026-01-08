@@ -160,7 +160,7 @@ const expCards = [
     },
     {
         review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-        imgPath: "/images/MSA.webp",
+        imgPath: "/images/KL.png",
         logoPath: "/images/logo2.png",
         title: "Technical Team Member",
         date: " Oct 2025 - Present",
