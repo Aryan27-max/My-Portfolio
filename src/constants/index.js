@@ -162,8 +162,8 @@ const expCards = [
         review: "Aryan brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
         imgPath: "/images/KL.webp",
         logoPath: "/images/logo2.png",
-        title: "Technical Team Member",
-        date: " Oct 2025 - Present",
+        title: "AI/ML Research",
+        date: " March 2025 - Present",
         responsibilities: [
             "Part of technical Domain in Microsoft SA,Cherry+ Network,Codenex & more ",
             "Collaborated Closely with development of the webapp.",
